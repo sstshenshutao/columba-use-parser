@@ -1,0 +1,19 @@
+{
+  "name": "columba-use-parser",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstshenshutao/columba-use-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstshenshutao/columba-use-parser/issues"
+  },
+  "homepage": "https://github.com/sstshenshutao/columba-use-parser#readme"
+}
